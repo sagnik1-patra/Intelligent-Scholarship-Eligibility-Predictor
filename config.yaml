@@ -1,0 +1,7 @@
+merged_rows: 39
+models:
+- LogisticRegression
+- LightGBM
+- NeuralNetwork
+num_features: 32
+target: eligible
