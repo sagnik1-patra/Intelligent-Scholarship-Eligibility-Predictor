@@ -1,4 +1,4 @@
-🎓 Intelligent Scholarship Eligibility Predictor
+🎓 Intelligent Scholarship Eligibility Predictor.
 
 Hybrid AIS + PSO / CSA / LightGBM Framework
 
