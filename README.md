@@ -2,7 +2,7 @@
 
 Hybrid AIS + PSO / CSA / LightGBM Framework,
 
-📌 Project Overview
+📌 Project Overview:
 
 Many deserving students fail to receive scholarships due to manual screening, rigid eligibility rules, and lack of data-driven decision systems.
 This project introduces an Intelligent Scholarship Eligibility Predictor that uses Machine Learning and Hybrid Bio-Inspired Optimization Algorithms to predict scholarship eligibility with high accuracy and transparency.
